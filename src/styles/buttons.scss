@@ -3,14 +3,37 @@
 }
 
 .btn-primary {
-  @apply cursor-pointer rounded-[50px] border-0 bg-gradient-to-tl text-center font-medium text-white hover:shadow-[0px_5px_30px_rgba(252,167,111,0.5)];
+  @apply cursor-pointer 
+         rounded-[50px] 
+         border-0 
+         text-center 
+         font-medium 
+         text-white 
+         hover:shadow-[0px_5px_30px_rgba(252,167,111,0.5)];
+
+  /* Reemplazamos el gradiente */
+  background: linear-gradient(
+    184.78deg,
+    #49a66c 7.64%,
+    #36bddb 120.07%
+  );
 }
 
 .btn-outline-primary {
-  @apply relative rounded-[50px] border-primary bg-transparent text-center capitalize text-dark hover:bg-primary hover:text-white hover:shadow-[0px_5px_30px_rgba(252,167,111,0.5)] hover:before:opacity-100 py-[7px];
-  &::before {
-    @apply absolute left-0 top-0 bottom-0 right-0 -z-[1] rounded-[inherit] bg-gradient-to-tl opacity-0 transition-[inherit] content-[""];
-  }
+  @apply cursor-pointer 
+         rounded-[50px] 
+         border-0 
+         text-center 
+         font-medium 
+         text-white 
+         hover:shadow-[0px_5px_30px_rgba(252,167,111,0.5)];
+
+  /* Reemplazamos el gradiente */
+  background: linear-gradient(
+    184.78deg,
+    #49a66c 7.64%,
+    #36bddb 120.07%
+  );
 }
 
 .btn-outline-white {

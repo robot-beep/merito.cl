@@ -12,21 +12,53 @@
 <path d="M10.2434 28.7367C8.88619 27.3795 8.13867 25.5749 8.13875 23.6554L8.13867 22.4793C8.13867 20.5598 8.88612 18.7552 10.2434 17.3979C11.6007 16.0406 13.4052 15.2931 15.3247 15.2932H15.5475V30.8414H15.3247C13.4052 30.8414 11.6006 30.0941 10.2434 28.7367Z" fill="url(#paint2_linear_34_186)"/>
 <path d="M14.3594 0.93335H14.5821C16.5016 0.93335 18.3062 1.6808 19.6635 3.03809C21.0207 4.39532 21.7682 6.19993 21.7682 8.11941V9.29545C21.7682 13.2579 18.5446 16.4815 14.5821 16.4815H14.3594V0.93335Z" fill="url(#paint3_linear_34_186)"/>
 <defs>
-<linearGradient id="paint0_linear_34_186" x1="14.51" y1="15.2932" x2="14.51" y2="22.5585" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FA709A"/>
-<stop offset="1" stop-color="#FEE140"/>
-</linearGradient>
-<linearGradient id="paint1_linear_34_186" x1="0.150598" y1="9.073" x2="0.150598" y2="16.3383" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FA709A"/>
-<stop offset="1" stop-color="#FEE140"/>
-</linearGradient>
-<linearGradient id="paint2_linear_34_186" x1="8.21043" y1="15.2932" x2="8.21043" y2="30.5402" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FA709A"/>
-<stop offset="1" stop-color="#FEE140"/>
-</linearGradient>
-<linearGradient id="paint3_linear_34_186" x1="14.4311" y1="0.93335" x2="14.4311" y2="16.1803" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FA709A"/>
-<stop offset="1" stop-color="#FEE140"/>
-</linearGradient>
+ <linearGradient
+      id="paint0_linear_34_740"
+      gradientUnits="objectBoundingBox"
+      x1="0" y1="0"
+      x2="1" y2="0"
+      gradientTransform="rotate(184.78, 0.5, 0.5)"
+    >
+      <!-- Ajusta los offsets a tu gusto; estos son
+           equivalentes a 7.64% y 120.07% en CSS -->
+      <stop offset="7.64%" stop-color="#49a66c" />
+      <stop offset="120.07%" stop-color="#36bddb" />
+    </linearGradient>
+ <linearGradient
+      id="paint0_linear_34_740"
+      gradientUnits="objectBoundingBox"
+      x1="0" y1="0"
+      x2="1" y2="0"
+      gradientTransform="rotate(184.78, 0.5, 0.5)"
+    >
+      <!-- Ajusta los offsets a tu gusto; estos son
+           equivalentes a 7.64% y 120.07% en CSS -->
+      <stop offset="7.64%" stop-color="#49a66c" />
+      <stop offset="120.07%" stop-color="#36bddb" />
+    </linearGradient>
+ <linearGradient
+      id="paint0_linear_34_740"
+      gradientUnits="objectBoundingBox"
+      x1="0" y1="0"
+      x2="1" y2="0"
+      gradientTransform="rotate(184.78, 0.5, 0.5)"
+    >
+      <!-- Ajusta los offsets a tu gusto; estos son
+           equivalentes a 7.64% y 120.07% en CSS -->
+      <stop offset="7.64%" stop-color="#49a66c" />
+      <stop offset="120.07%" stop-color="#36bddb" />
+    </linearGradient>
+ <linearGradient
+      id="paint0_linear_34_740"
+      gradientUnits="objectBoundingBox"
+      x1="0" y1="0"
+      x2="1" y2="0"
+      gradientTransform="rotate(184.78, 0.5, 0.5)"
+    >
+      <!-- Ajusta los offsets a tu gusto; estos son
+           equivalentes a 7.64% y 120.07% en CSS -->
+      <stop offset="7.64%" stop-color="#49a66c" />
+      <stop offset="120.07%" stop-color="#36bddb" />
+    </linearGradient>
 </defs>
 </svg>

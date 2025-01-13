@@ -1,15 +1,17 @@
 <svg width="151" height="147" viewBox="0 0 151 147" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M151 73.2054C151 135.481 118.154 146.411 77.6358 146.411C27.198 152.257 1.08748 113.636 1.08748 73.2054C-7.57352 21.8599 37.1179 0 77.6358 0C118.154 0 151 32.7752 151 73.2054Z" fill="url(#paint0_linear_34_3)"/>
 <defs>
- <linearGradient
-    id="paint0_linear_34_740"
-    gradientUnits="objectBoundingBox"
-    x1="0" y1="0"
-    x2="1" y2="0"
-    gradientTransform="rotate(184.78, 0.5, 0.5)"
-  >
-    <stop offset="7.64%" stop-color="#49a66c"/>
-    <stop offset="120.07%" stop-color="#fee140"/>
-  </linearGradient>
+  <linearGradient
+      id="paint0_linear_34_740"
+      gradientUnits="objectBoundingBox"
+      x1="0" y1="0"
+      x2="1" y2="0"
+      gradientTransform="rotate(184.78, 0.5, 0.5)"
+    >
+      <!-- Ajusta los offsets a tu gusto; estos son
+           equivalentes a 7.64% y 120.07% en CSS -->
+      <stop offset="7.64%" stop-color="#49a66c" />
+      <stop offset="120.07%" stop-color="#36bddb" />
+    </linearGradient>
 </defs>
 </svg>
